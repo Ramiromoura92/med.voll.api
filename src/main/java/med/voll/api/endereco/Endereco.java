@@ -20,9 +20,6 @@ public class Endereco {
     private String numero;
     private String complemento;
 
-    public Endereco(){
-
-    }
 
     public Endereco(DadosEndereco dados) {
 
